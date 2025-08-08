@@ -1,7 +1,8 @@
-# 💵 Bill Splitter – A Smart & Stylish Bill Sharing App  
+# 💵 Bill Splitter 
 
 Easily split bills among friends, family, or colleagues with style!  
-This application provides a **modern UI**, **real-time calculations**, and **customizable themes** 🌗. Whether splitting evenly or custom amounts, it makes bill sharing fast, fun, and hassle-free !
+This application provides a **modern UI**, **real-time calculations**, and **customizable themes** 🌗.
+Whether splitting evenly or custom amounts, it makes bill sharing fast, fun, and hassle-free !
 
 ### ✨ Features :--  
 - 🧮 **Split Modes** – Choose between **Even Split** or **Custom Split**.  
@@ -14,16 +15,15 @@ This application provides a **modern UI**, **real-time calculations**, and **cus
 - 🪄 **Animated Dialog** – Centered prompts for smooth user interaction.  
 
 ### 🚀 Installation & Usage :-- 
+
 1️⃣ Clone the Repository
+
 2️⃣ Run the Application
 
 ### 🛠 Requirements :--
 - Python 3.x
 - Built-in modules :
-        - tkinter
-        - ttk
-        - messagebox
-        - simpledialog
+tkinter, ttk, messagebox, simpledialog
 
 ### 📖 How It Works :--
 1. 👫 Enter the number of people.
