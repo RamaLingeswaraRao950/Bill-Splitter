@@ -1,6 +1,6 @@
 # 💵 Bill-Splitter 
 
-Easily split bills among friends, family, or colleagues with style..!. It provides a **modern UI**, **real-time calculations**, and **customizable themes** 🌗. Whether splitting evenly or custom amounts, it makes bill sharing fast, fun, and hassle-free..!
+Easily split bills among friends, family, colleagues with style..!. It provides a **modern UI**, **real-time calculations**, **customizable themes** 🌗. Whether splitting evenly or custom amounts, it makes bill sharing fast, fun, and hassle-free..!
 
 ### ✨ Features :--  
 - 🧮 **Split Modes** – Choose between **Even Split** or **Custom Split**.  
