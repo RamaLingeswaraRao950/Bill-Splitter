@@ -2,6 +2,7 @@
 
 Easily split bills among friends, family, or colleagues with style!  
 This application provides a **modern UI**, **real-time calculations**, and **customizable themes** 🌗.
+
 Whether splitting evenly or custom amounts, it makes bill sharing fast, fun, and hassle-free !
 
 ### ✨ Features :--  
@@ -15,10 +16,8 @@ Whether splitting evenly or custom amounts, it makes bill sharing fast, fun, and
 - 🪄 **Animated Dialog** – Centered prompts for smooth user interaction.  
 
 ### 🚀 Installation & Usage :-- 
-
-1️⃣ Clone the Repository
-
-2️⃣ Run the Application
+- 1️⃣ Clone the Repository
+- 2️⃣ Run the Application
 
 ### 🛠 Requirements :--
 - Python 3.x
